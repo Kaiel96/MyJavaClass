@@ -1,0 +1,9 @@
+     John Smith;         Dinner;17.50; 11/1/2015
+    Jane Dawes;     Conference;320.00; 11/2/2015
+ Larry Spencer; Business Center;25.40; 10/29/2015
+ Brannden Moss;         Dinner;20.50; 01/02/1996
+ Jaimesen Moss;     Conference;320.00; 08/13/1994
+     Doug Moss; Buisness Center;500.00; 11/19/1969
+ Brannden Moss; Buisness Center;20.50; 01/02/1996
+ Jaimesen Moss;         Dinner;320.00; 08/13/1994
+     Doug Moss;     Conference;500.00; 11/19/1969
